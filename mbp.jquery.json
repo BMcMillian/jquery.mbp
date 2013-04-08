@@ -1,0 +1,22 @@
+{
+  "name": "mbp",
+  "version": "1.0.0",
+  "title": "jQuery margin, border and padding (MBP) plugin",
+  "author": {
+    "name": "Philip Graham",
+    "email": "philip@zeptech.ca"
+  },
+  "licenses": [
+    {
+      "type": "BSD 3-clause",
+      "url": "https://github.com/pgraham/jquery.mbp/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.0"
+  },
+  "description": "jQuery plugin for retrieving the amount of margin, border and padding contributing to an element's width and height.",
+  "keywords": [ "width", "height", "margin", "border", "padding" ],
+  "homepage": "https://github.com/pgraham/jquery.mbp",
+  "docs": "https://github.com/pgraham/jquery.mbp/blob/master/README.md"
+}
